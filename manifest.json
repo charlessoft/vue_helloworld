@@ -1,16 +1,16 @@
 {
   "author": "charlessoft",
   "copyright": "foxit",
-  "description": "Discover Sample tool",
+  "description": "Hello World Sample tool",
   "icons": "",
-  "id": "DiscoverSample",
+  "id": "HelloWorldSample",
   "manifest_version": 1,
-  "name": "Discover Sample Tool",
+  "name": "Hello World Sample Tool",
   "panel": {
     "icon": "https://s1.ax1x.com/2023/08/15/pPQi73q.png",
-    "title": "Discover Sample",
-    "tooltip": "Discover Sample",
-    "url": "https://7gx3vp-8080.csb.app/#/home"
+    "title": "Hello World Sample",
+    "tooltip": "Hello World Sample",
+    "url": "https://ccw5fg-8080.csb.app/#/home"
   },
   "ribbon": {
     "tabs": [

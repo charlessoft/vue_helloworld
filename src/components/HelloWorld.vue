@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ props.msg }}</h1>
 
-    <img src="https://online-azk8s.foxitcloud.com/pluginsdk/static/f0235b927fd9a450a8b83fb58d240550.5500a374.png">
+    <img style="width:100%" src="https://online-azk8s.foxitcloud.com/pluginsdk/static/f0235b927fd9a450a8b83fb58d240550.5500a374.png">
 
   </div>
 </template>
